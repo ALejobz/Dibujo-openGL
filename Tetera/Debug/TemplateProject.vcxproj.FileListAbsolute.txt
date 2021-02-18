@@ -1,0 +1,4 @@
+C:\Users\alejo\OneDrive\Escritorio\Debug\TemplateProject.exe
+C:\Users\alejo\OneDrive\Escritorio\Debug\TemplateProject.pdb
+C:\Users\alejo\OneDrive\Escritorio\2021-1\Grafica\Tetera\Debug\TemplateProject.exe
+C:\Users\alejo\OneDrive\Escritorio\2021-1\Grafica\Tetera\Debug\TemplateProject.pdb
